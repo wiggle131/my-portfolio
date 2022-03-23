@@ -1,18 +1,9 @@
 import React from "react";
 import weather from "../Resources/projects/weather.png"
 import logos from '../IntroWithPic/images';
-const Projects = () => {
+import ColoredLine from "../ColoredLine";
 
-     const ColoredLine = ({ color }) => (
-    <hr
-        style={{
-        color,
-        backgroundColor: color,
-        height: 1.5,
-        border: 0,
-        }}
-    />
-    );
+const Projects = () => {
 
     return(
         <div className ='flex flex-col h-screen '>

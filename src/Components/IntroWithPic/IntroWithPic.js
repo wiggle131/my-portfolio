@@ -1,17 +1,9 @@
 import React from "react";
 import picture from "../Resources/picture.jpg";
 import logos from './images';
-const IntroWithPic = () => {
+import ColoredLine from "../ColoredLine";
 
-    const ColoredLine = ({ color }) => (
-    <hr
-        style={{
-        color,
-        backgroundColor: color,
-        height: 5
-        }}
-    />
-    );
+const IntroWithPic = () => {
 
     return(
         <div className ='flex h-screen'>
