@@ -22,7 +22,7 @@ const Trendmicro = ({logos}) => {
                     </div>
                     <div className='flex justify-center md:justify-start '>
                        <div className='flex items-center mx-2 z-50'>
-                            <a href='https://www.facebook.com/1376692799081950/posts/2576003139150904/'  target="_blank" rel="noopener noreferrer">
+                            <a href='https://www.facebook.com/1376692799081950/posts/2576003139150904/'  target="_blank" rel="noreferrer">
                                 <img src={logos.link} alt='pic' className='h-[20px] w-auto '/>
                             </a>
                         </div>
