@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.c770d423.css",
+    "main.js": "/my-portfolio/static/js/main.6b620fd3.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/internship.png": "/my-portfolio/static/media/internship.63777b18b04b14b37c0f.png",
+    "static/media/trendmicro.jpg": "/my-portfolio/static/media/trendmicro.116cd3a70dadd5213bf7.jpg",
+    "static/media/pitchperfect.jpg": "/my-portfolio/static/media/pitchperfect.99f567a34be807745041.jpg",
+    "static/media/ppc.jpg": "/my-portfolio/static/media/ppc.2d0a7655e8430322a245.jpg",
+    "static/media/php.png": "/my-portfolio/static/media/php.502c1a901665a0453b5c.png",
+    "static/media/java.png": "/my-portfolio/static/media/java.86407ffa56ebe1f70b6a.png",
+    "static/media/Jhosie Charles Espantaleon - Resume.pdf": "/my-portfolio/static/media/Jhosie Charles Espantaleon - Resume.3da7901923bbfcbed109.pdf",
+    "static/media/weather.png": "/my-portfolio/static/media/weather.e842b56eeef21471448f.png",
+    "static/media/dsc.jpg": "/my-portfolio/static/media/dsc.b2714089bb1d8cf94b50.jpg",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.9c2e5bcf4f97d73e438e.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.60c441cb8e8536326e01.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.cf81820bc2f757227d41.png",
+    "static/media/C.png": "/my-portfolio/static/media/C.bf0af88d24cd724c83bc.png",
+    "static/media/picture.jpg": "/my-portfolio/static/media/picture.c55517ea87cbec84fdb2.jpg",
+    "static/media/ccs.jpg": "/my-portfolio/static/media/ccs.51cb4f7729ca85546ecb.jpg",
+    "static/media/link.png": "/my-portfolio/static/media/link.df7c4478133c891539f2.png",
+    "static/media/flutter.png": "/my-portfolio/static/media/flutter.44b1041e0ab325b8ce4b.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.ea61df52e9f7861c6c59.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/python.png": "/my-portfolio/static/media/python.c32c0433b95e4b348c8d.png",
+    "static/media/csharp.png": "/my-portfolio/static/media/csharp.fc430729bfa8902c06fd.png",
+    "static/media/github-black.png": "/my-portfolio/static/media/github-black.05f6c17b8cd04c28456f.png",
+    "static/media/openweather.png": "/my-portfolio/static/media/openweather.6ff449a6061f6c00504b.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.c770d423.css.map": "/my-portfolio/static/css/main.c770d423.css.map",
+    "main.6b620fd3.js.map": "/my-portfolio/static/js/main.6b620fd3.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c770d423.css",
+    "static/js/main.6b620fd3.js"
+  ]
+}
