@@ -14,12 +14,12 @@ const Ending = ({resume}) => {
                     </p>
                     <span className='text-port-red md:font-extrabold text-xl'>: ) </span>
                     <div className='flex-row flex md:flex-none justify-center w-full  md:flex-none'>
-                        <a href = {email} target="_blank" rel="noreferrer">
+                        <a href = {email} target="_blank">
                             <button className='w-28 md:w-40 font-Inconsolata text-xs md:text-base my-5 mx-8 md:mx-16 border-solid border-2 border-port-red p-4 rounded-lg text-port-orange font-bold'>
                                 Get in touch
                             </button>
                         </a>
-                        <a href = {resume} download ="Jhosie Charles Espantaleon Ressume" target="_blank" rel="noreferrer">
+                        <a href = {resume} download ="Jhosie Charles Espantaleon Ressume" target="_blank">
                             <button className='w-28 md:w-40 font-Inconsolata text-xs md:text-base my-5 mx-8 md:mx-16 border-solid border-2 border-port-red p-4 rounded-lg text-port-orange font-bold'>
                                 Resume
                             </button>

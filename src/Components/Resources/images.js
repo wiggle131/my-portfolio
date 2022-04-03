@@ -16,7 +16,7 @@ import github_black from '../Resources/logos/github-black.png';
 import link from '../Resources/logos/link.png';
 import linkedin from '../Resources/logos/linkedin.png';
 
-const logos = {
+export default {
     csharp,
     c,
     css,
@@ -35,5 +35,3 @@ const logos = {
     link,
     linkedin
 };
-
-export default logos;

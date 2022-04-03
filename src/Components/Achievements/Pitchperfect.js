@@ -22,7 +22,7 @@ const Pitchperfect = ({logos}) => {
                     </div>
                     <div className='flex justify-center md:justify-start '>
                        <div className='flex items-center mx-2 z-50'>
-                            <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'  target="_blank" rel="noreferrer">
+                            <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'  target="_blank" rel="noopener noreferrer">
                                 <img src={logos.link} alt='pic' className='h-[20px] w-auto '/>
                             </a>
                         </div>
