@@ -22,15 +22,8 @@ const PPC = ({logos}) => {
                                 <ColoredLine color='#FCBF49'/>
                     </div>
                     <div className='flex justify-center md:justify-start '>
-<<<<<<< HEAD
-                       <div className='flex items-center  mx-2'>
-=======
                        <div className='flex items-center z-50 mx-2'>
-<<<<<<< HEAD
->>>>>>> parent of a046632 (Fixed warnings)
-=======
->>>>>>> parent of a046632 (Fixed warnings)
-                            <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'  target="_blank" rel="noopener noreferrer">
+                            <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'  target="_blank" rel="noreferrer">
                                 <img src={logos.link} alt='pic' className='h-[20px]  w-auto '/>
                             </a>
                         </div>
