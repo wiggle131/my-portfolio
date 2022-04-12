@@ -55,10 +55,6 @@ const IntroWithPic = () => {
                                 <img src={logos.css} alt='pic' className='h-[20px] w-auto '/>
                                 <p className='ml-2 md:ml-1's>CSS</p>
                             </div>
-                             <div className='flex items-center md:mx-2'>
-                                <img src={logos.php} alt='pic' className='h-[20px] w-auto '/>
-                                <p className='ml-1'>PHP</p>
-                            </div>
                             <div className='flex items-center md:mx-1'>
                                 <img src={logos.javascript} alt='pic' className='h-[20px] w-auto '/>
                                 <p>Javascript</p>

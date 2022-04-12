@@ -121,17 +121,17 @@ const Projects = () => {
                         </p>
                         <div  className='flex justify-end'>
                             <div className='flex items-center mx-2'>
-                                <a href='https://www.figma.com/file/0ZWKvj6KEz435rfLMxhKX5/Weather-Forecasting'  target="_blank" rel="noopener noreferrer" aria-label='figma'>
+                                <a href='https://www.figma.com/file/UrBOSyxUwjCNjcDS6BuD7Y/Dive'  target="_blank" rel="noopener noreferrer" aria-label='figma'>
                                     <img src={logos.figma} alt='pic' className='h-[20px] w-auto '/>
                                 </a>
                             </div>
                             <div className='flex items-center mx-2'>
-                                <a href='https://github.com/wiggle131/weather-forecasting'  target="_blank" rel="noopener noreferrer" aria-label='github'>
+                                <a href='https://github.com/wiggle131/how-deep-you-dive'  target="_blank" rel="noopener noreferrer" aria-label='github'>
                                     <img src={logos.githuborange} alt='pic' className='h-[20px] w-auto '/>
                                 </a>
                             </div>
                             <div className='flex items-center mx-2'>
-                                <a href='https://wiggle131.github.io/weather-forecasting/'  target="_blank" rel="noopener noreferrer" aria-label='link'>
+                                <a href='https://wiggle131.github.io/how-deep-you-dive/'  target="_blank" rel="noopener noreferrer" aria-label='link'>
                                     <img src={logos.link} alt='pic' className='h-[20px] w-auto '/>
                                 </a>
                             </div>
