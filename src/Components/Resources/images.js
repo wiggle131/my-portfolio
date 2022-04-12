@@ -15,6 +15,9 @@ import githuborange from '../Resources/logos/github.png';
 import github_black from '../Resources/logos/github-black.png';
 import link from '../Resources/logos/link.png';
 import linkedin from '../Resources/logos/linkedin.png';
+import locationIQ from '../Resources/logos/locationIQ.png';
+import figma from '../Resources/logos/figma.png';
+import framer from '../Resources/logos/framer.png';
 
 const logos = {
     csharp,
@@ -33,7 +36,10 @@ const logos = {
     githuborange,
     github_black,
     link,
-    linkedin
+    linkedin,
+    locationIQ,
+    figma,
+    framer
 };
 
 export default logos;
